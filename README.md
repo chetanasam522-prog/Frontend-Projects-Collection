@@ -20,7 +20,7 @@ This repository includes multiple mini-projects focused on:
 
 # Projects
 
-1 Amazon Website Clone
+1 Amazon Website Clone (https://github.com/chetanasam522-prog/Frontend-Projects-Collection/tree/main/Amazon_Website_Clone)
 
 A responsive clone of the Amazon homepage focusing on layout structuring and UI design.
 
@@ -32,7 +32,7 @@ Highlights:
 
 ---
 
-2 Spotify Website Clone
+2 Spotify Website Clone (https://github.com/chetanasam522-prog/Frontend-Projects-Collection/tree/main/Spotify_Website_Clone)
 
 A visually appealing music player interface inspired by Spotify.
 
@@ -44,7 +44,7 @@ Highlights:
 
 ---
 
-3 Simon Says Game
+3 Simon Says Game (https://github.com/chetanasam522-prog/Frontend-Projects-Collection/tree/main/Simon_Says_Game)
 
 An interactive memory game built using JavaScript.
 
@@ -56,7 +56,7 @@ Highlights:
 
 ---
 
-4 CSS Sidebar Menu
+4 CSS Sidebar Menu (https://github.com/chetanasam522-prog/Frontend-Projects-Collection/tree/main/CSS%20Project-Sidebar%20Menu)
 
 A reusable sidebar navigation component.
 
